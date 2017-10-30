@@ -1,0 +1,19 @@
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
+}
+
+.body-content {
+	margin: 0 3.5%;
+}
+
+.fixed {
+	position: fixed;
+}
+
+.top-panel {
+	padding: 10px 0;
+}
